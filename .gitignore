@@ -1,1 +1,5 @@
 /canweb
+
+# dependencies
+node_modules/
+
