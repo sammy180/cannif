@@ -430,7 +430,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -449,7 +449,8 @@
   "libraries": {
     "pinned_footprint_libs": [
       "ssh_Library",
-      "ssh_conn_lib"
+      "ssh_conn_lib",
+      "ssh_IC_FP"
     ],
     "pinned_symbol_libs": [
       "ssh_Library",
@@ -479,6 +480,22 @@
         "track_width": 0.2,
         "via_diameter": 0.6,
         "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "name": "POWER",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "name": "USB",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
         "wire_width": 6
       }
     ],
@@ -620,6 +637,18 @@
     [
       "a05c5709-ba86-4ce1-b695-954887af3c99",
       "Root"
+    ],
+    [
+      "949f7a5e-a302-4b49-923c-97eb83b277f1",
+      "power"
+    ],
+    [
+      "49a16109-d1ca-41d0-93fb-f5f460e7d8dd",
+      "control"
+    ],
+    [
+      "65972d14-7b8e-4796-b254-d0eb10ac0599",
+      "power2"
     ]
   ],
   "text_variables": {}
