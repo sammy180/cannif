@@ -1,0 +1,13 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+Css,MuRata,GRM033R71A822KA01D,1,0.01,2.08,Cap: 8.2 nF  Total Derated Cap: 8.2 nF  VDC: 10 V  ESR: 1 mΩ  Package: 0201  
+Ccomp2,Yageo,CC0805JRNPO9BN100,1,0.01,6.75,Cap: 10 pF  Total Derated Cap: 10 pF  VDC: 50 V  ESR: 0 Ω  Package: 0805  
+U1,Texas Instruments,TPS54331DDAR,1,0.62,55.2,
+Rfbb,Vishay-Dale,CRCW04023K01FKED,1,0.01,3,Resistance: 3.01 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Cboot,AVX,08053C104KAT2A,1,0.01,6.75,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 25 V  ESR: 280 mΩ  Package: 0805  
+Cin,Taiyo Yuden,MSASE32MSB7226MPNB25,1,0.14253,14.7,Cap: 22 µF  Total Derated Cap: 11 µF  VDC: 16 V  ESR: 3.3 mΩ  Package: 1210  
+L1,Coilcraft,SER1360-402KLB,1,0.74,224.99,L: 4 µH  DCR: 6.05 mΩ  IDC: 9.4 A  
+Rfbt,Vishay-Dale,CRCW040210K2FKED,1,0.01,3,Resistance: 10.2 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Cout,MuRata,GRM32EC80J107ME20L,2,0.17,14.7,Cap: 100 µF  Total Derated Cap: 120 µF  VDC: 6.3 V  ESR: 1 mΩ  Package: 1210  
+D1,Diodes Inc.,B340LA-13-F,1,0.15,37.34,Type: Schottky  VRRM: 40 V  Io: 3 A  
+Ccomp,MuRata,GRM1555C1H102JA01J,1,0.01,3,Cap: 1 nF  Total Derated Cap: 1 nF  VDC: 50 V  ESR: 0 Ω  Package: 0402  
+Rcomp,Yageo,RC0201FR-0728K7L,1,0.01,2.08,Resistance: 28.7 kΩ  Tolerance: 1.0%  Power: 50 mW  
