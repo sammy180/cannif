@@ -450,12 +450,15 @@
     "pinned_footprint_libs": [
       "ssh_Library",
       "ssh_conn_lib",
-      "ssh_IC_FP"
+      "ssh_IC_FP",
+      "ssh_DISC_lib"
     ],
     "pinned_symbol_libs": [
       "ssh_Library",
       "ssh_IC_Lib",
-      "ssh_conn_lib_sym"
+      "ssh_conn_lib_sym",
+      "ssh_DISC_lib",
+      "ssh_pass_Library"
     ]
   },
   "meta": {

@@ -1,4 +1,4 @@
-27155504059042516
+27159048361393421
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107330,6 +107330,13 @@ Varistor VF
 0
 2
 2
+ssh_DISC_lib
+WE-XHMI_4040
+
+
+0
+2
+2
 ssh_IC_FP
 RP2350A_QFN-60_EP_7.75x7.75_Pitch0.4mm
 
@@ -107348,6 +107355,13 @@ ssh_IC_FP
 SO8_SOT96-1_NXP
 
 TJA1051T/3/1J 
+0
+8
+8
+ssh_IC_FP
+SOIC_8
+
+
 0
 8
 8
