@@ -1,0 +1,13 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+Cboot,AVX,08053C104KAT2A,1,0.01,6.75,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 25 V  ESR: 280 mΩ  Package: 0805  
+D1,Diodes Inc.,B540C-13-F,1,0.19,83.27,Type: Schottky  VRRM: 40 V  Io: 5 A  
+Ccomp2,Yageo,CC0805JRNPO9BN100,1,0.01,6.75,Cap: 10 pF  Total Derated Cap: 10 pF  VDC: 50 V  ESR: 0 Ω  Package: 0805  
+Rfbt,Vishay-Dale,CRCW040210K2FKED,1,0.01,3,Resistance: 10.2 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Rcomp,Vishay-Dale,CRCW040234K0FKED,1,0.01,3,Resistance: 34 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Rfbb,Vishay-Dale,CRCW04023K01FKED,1,0.01,3,Resistance: 3.01 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Css,MuRata,GRM033R71A822KA01D,1,0.01,2.08,Cap: 8.2 nF  Total Derated Cap: 8.2 nF  VDC: 10 V  ESR: 1 mΩ  Package: 0201  
+Ccomp,MuRata,GRM1555C1H102JA01J,1,0.01,3,Cap: 1 nF  Total Derated Cap: 1 nF  VDC: 50 V  ESR: 0 Ω  Package: 0402  
+Cout,MuRata,GRM32EC80J107ME20L,2,0.17,14.7,Cap: 100 µF  Total Derated Cap: 120 µF  VDC: 6.3 V  ESR: 1 mΩ  Package: 1210  
+Cin,Taiyo Yuden,MSASU32MSB5106KPNA01,2,0.16148,14.7,Cap: 10 µF  Total Derated Cap: 12 µF  VDC: 50 V  ESR: 3.98 mΩ  Package: 1210  
+L1,Wurth Elektronik,74439325056,1,0.945,28.09,L: 5.6 µH  DCR: 34.2 mΩ  IDC: 5.1 A  
+U1,Texas Instruments,TPS54331DDAR,1,0.62,55.2,

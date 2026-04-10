@@ -6,7 +6,7 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at -97.79 135.89)
+		(at 170.18 93.98)
 		(size 52.07 45.72)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +22,7 @@
 		)
 		(uuid "49a16109-d1ca-41d0-93fb-f5f460e7d8dd")
 		(property "Sheetname" "control"
-			(at -97.79 135.1784 0)
+			(at 170.18 93.2684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,7 +31,7 @@
 			)
 		)
 		(property "Sheetfile" "control.kicad_sch"
-			(at -97.79 182.1946 0)
+			(at 170.18 140.2846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48,7 +48,7 @@
 		)
 	)
 	(sheet
-		(at -193.04 99.06)
+		(at 74.93 57.15)
 		(size 52.07 45.72)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -64,7 +64,7 @@
 		)
 		(uuid "65972d14-7b8e-4796-b254-d0eb10ac0599")
 		(property "Sheetname" "power2"
-			(at -193.04 98.3484 0)
+			(at 74.93 56.4384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73,7 +73,7 @@
 			)
 		)
 		(property "Sheetfile" "untitled.kicad_sch"
-			(at -193.04 145.3646 0)
+			(at 74.93 103.4546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -90,7 +90,7 @@
 		)
 	)
 	(sheet
-		(at -97.79 66.04)
+		(at 170.18 24.13)
 		(size 52.07 45.72)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -106,7 +106,7 @@
 		)
 		(uuid "949f7a5e-a302-4b49-923c-97eb83b277f1")
 		(property "Sheetname" "power"
-			(at -97.79 65.3284 0)
+			(at 170.18 23.4184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -115,7 +115,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at -97.79 112.3446 0)
+			(at 170.18 70.4346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
